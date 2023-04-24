@@ -1,2 +1,2 @@
-# tuam
+# python_core
 my
