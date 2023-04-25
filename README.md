@@ -1,2 +1,0 @@
-# python_core
-my
